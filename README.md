@@ -26,9 +26,9 @@ Criar um protótipo de aplicativo financeiro de forma simples e prática, utiliz
 
 ## 📄 Documentação
 
-- [PRD do projeto](PRD.md)
-- [Prompt utilizado no Copilot](prompts/copilot.md)
-- [Prompt utilizado no Lovable](prompts/lovable.md)
+- [PRD do projeto]
+- [Prompt utilizado no Copilot]
+- [Prompt utilizado no Lovable]
 
 ## 📸 Capturas de tela
 
